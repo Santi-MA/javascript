@@ -1,12 +1,8 @@
 # javascript
 Conceptos basicos en javascript 
 
-hola-mundo
-
-variables
-
-objetos literales
-
-arrays(arreglos)
-
-funciones
+1-hola-mundo
+2-variables
+3-objetos literales
+4-arrays(arreglos)
+5-funciones
