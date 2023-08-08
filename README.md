@@ -1,6 +1,5 @@
 # javascript
 Conceptos básicos en JavaScript
-
 1.hola-mundo
 2.variables
 3.objetos literales
