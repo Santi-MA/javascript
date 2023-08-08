@@ -3,9 +3,9 @@
  */
 // funcion tradicional sin argumentos
 function miNombre(){
-    console.log('Mi nombre es: ' + 'Jorge');   
-    console.log(`Mi nombre es: ${'Marta'}`);   
-    console.log(`Mi nombre es: ${'Julio'}`);   
+    console.log('Mi nombre es: ' + 'Santiago');   
+    console.log(`Mi nombre es: ${'Martha'}`);   
+    console.log(`Mi nombre es: ${'Mateo'}`);   
 
 }
 
@@ -21,4 +21,4 @@ function miApellido(apellido){
     console.log(`Mi apellido: ${apellido}`); 
 }
 
-miApellido('Grajales');
+miApellido('Mejia');
